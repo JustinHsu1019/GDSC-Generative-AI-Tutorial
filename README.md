@@ -9,4 +9,15 @@
 
 #### Course Timing: 7:00 PM - 9:00 PM (2-hour session)
 
-#### Course Satisfaction Survey: 90.0%
+#### Course Satisfaction: 90.0%
+Course Satisfaction Calculation: 
+- \( a \) people are very satisfied (5 points)
+- \( b \) people are satisfied (4 points)
+- \( c \) people are neutral (3 points)
+- \( d \) people are dissatisfied (2 points)
+- \( e \) people are very dissatisfied (1 point)
+
+Therefore, the average satisfaction score is calculated as: 
+\[ \frac{a \times 5 + b \times 4 + c \times 3 + d \times 2 + e \times 1}{a + b + c + d + e} \]
+Generally, a score above 3 indicates good satisfaction. It can also be expressed as a percentage, for example:
+\[ \left( \frac{a \times 5 + b \times 4 + c \times 3 + d \times 2 + e \times 1}{a + b + c + d + e} \right) / 5 \times 100\% \]
