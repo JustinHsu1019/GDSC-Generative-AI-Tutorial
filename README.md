@@ -8,3 +8,5 @@
 #### Material Author: 許新翎 (Justin Hsu), with additional content sourced from educational materials provided in Google's Train-the-Trainer events.
 
 #### Course Timing: 7:00 PM - 9:00 PM (2-hour session)
+
+#### Course Satisfaction Survey: 90.0%
